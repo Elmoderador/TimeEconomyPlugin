@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="TimeEconomyPlugin Banner">
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Elmoderador/TimeEconomyPlugin/main/assets/logo.png" width="160" alt="TimeEconomyPlugin Logo">
+<img src="./assets/logo.png" alt="TimeEconomyPlugin Logo" width="180">
 
 <br>
 
