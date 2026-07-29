@@ -72,15 +72,15 @@ Each system is designed to work together while maintaining performance, flexibil
 
 # 🏢 About SpectroDinner™
 
-**SpectroDinner™** is the organization behind TimeEconomyPlugin.
+**SpectroDinner™** is the organization behind **TimeEconomyPlugin**.
 
-The project is developed through the **SpectroDinner DEV** branch, focused on software development, experimentation and creation of custom systems.
+Development is carried out through **SpectroDinner DEV**, the software development branch dedicated to building applications, experimenting with new ideas and creating custom systems.
 
-Main objectives:
+## Main Objectives
 
 - 🏗️ Build high-quality software projects.
-- 📚 Maintain proper documentation.
-- 🧩 Create modular and scalable systems.
+- 📚 Maintain comprehensive documentation.
+- 🧩 Design modular and scalable systems.
 - 🌍 Share knowledge through open-source development.
 
 ---
