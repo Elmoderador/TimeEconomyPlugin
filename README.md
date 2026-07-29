@@ -572,94 +572,132 @@ Releases are published through GitHub when a stable version is available.
 
 ---
 
+---
+
 # 🔢 Versioning
 
 TimeEconomyPlugin follows **Semantic Versioning**.
 
 Format:
 
+```text
 MAJOR.MINOR.PATCH
+```
 
 Example:
 
+```text
 v1.0.0
 │ │ │
 │ │ └── Patch: Bug fixes and improvements
 │ └──── Minor: New features and gameplay systems
 └────── Major: Large architectural changes
+```
 
 Version updates follow the evolution of the project and its internal systems.
 
-🛠️ Installation
-Requirements
+---
 
-Before installing TimeEconomyPlugin, make sure your server meets these requirements:
+# 🛠️ Installation
 
-☕ Java 21+
-🎮 Minecraft 1.21+
-🔧 Paper Server
-📦 TimeEconomyPlugin release file
-Installation Steps
-Download the latest release from GitHub.
-Place the .jar file inside your server's plugins folder.
-Start or restart your Minecraft server.
-Configure the plugin if necessary.
-Enjoy TimeEconomyPlugin.
-🏗️ Building From Source
+## Requirements
 
-Developers can compile TimeEconomyPlugin using Maven.
+Before installing **TimeEconomyPlugin**, make sure your server meets these requirements:
 
-Clone Repository
+- ☕ Java 21+
+- 🎮 Minecraft 1.21+
+- 🔧 Paper Server
+- 📦 TimeEconomyPlugin release file
+
+---
+
+## Installation Steps
+
+1. Download the latest release from GitHub.
+2. Place the `.jar` file inside your server's `plugins` folder.
+3. Start or restart your Minecraft server.
+4. Configure the plugin if necessary.
+5. Enjoy TimeEconomyPlugin.
+
+---
+
+# 🏗️ Building From Source
+
+Developers can compile **TimeEconomyPlugin** using Maven.
+
+## Clone Repository
+
+```bash
 git clone https://github.com/Elmoderador/TimeEconomyPlugin.git
+```
 
-Enter the project directory:
+## Enter the project directory
 
+```bash
 cd TimeEconomyPlugin
+```
 
-Build the plugin:
+## Build the plugin
 
+```bash
 mvn clean package
+```
 
-The generated .jar file will be located in:
+The generated `.jar` file will be located inside:
 
+```text
 target/
-🗺️ Development Roadmap
+```
+
+---
+
+# 🗺️ Development Roadmap
 
 TimeEconomyPlugin follows a continuous development model focused on improving gameplay systems, stability and software architecture.
 
-✅ Version 1.0.x
+---
+
+## ✅ Version 1.0.x
 
 Current development cycle.
 
-Completed:
+### Completed
 
-✅ Plugin Core
-✅ Time Economy System
-✅ Player Classes
-✅ Legendary Weapons
-✅ Clan System
-✅ Authentication System
-✅ Discord Integration
-✅ REST Integration
+- ✅ Plugin Core
+- ✅ Time Economy System
+- ✅ Player Classes
+- ✅ Legendary Weapons
+- ✅ Clan System
+- ✅ Authentication System
+- ✅ Discord Integration
+- ✅ REST Integration
 
-Current improvements:
+### Current Improvements
 
-📚 Documentation expansion
-⚡ Performance optimization
-⚖️ Balance improvements
-🧩 Additional integrations
-🛠️ Internal refactoring
-🔮 Future Versions
+- 📚 Documentation expansion
+- ⚡ Performance optimization
+- ⚖️ Balance improvements
+- 🧩 Additional integrations
+- 🛠️ Internal refactoring
+
+---
+
+## 🔮 Future Versions
 
 Planned improvements:
 
-🎒 Additional custom items
-⚔️ New gameplay mechanics
-🏰 Expanded clan features
-📊 More configuration options
-🔌 Additional integrations
-📚 More technical documentation
-📈 Development Workflow
+- 🎒 Additional custom items
+- ⚔️ New gameplay mechanics
+- 🏰 Expanded clan features
+- 📊 More configuration options
+- 🔌 Additional integrations
+- 📚 More technical documentation
+
+---
+
+# 📈 Development Workflow
+
+```text
 Idea
  │
  ▼
@@ -679,100 +717,129 @@ Release
  │
  ▼
 Continuous Improvement
-🤝 Contributing
+```
+
+---
+
+# 🤝 Contributing
 
 Contributions are welcome.
 
-Developers can help improve TimeEconomyPlugin through:
+Developers can help improve **TimeEconomyPlugin** through:
 
-🐞 Bug reports
-💡 Feature suggestions
-🔀 Pull Requests
-📚 Documentation improvements
-🧪 Testing
+- 🐞 Bug reports
+- 💡 Feature suggestions
+- 🔀 Pull Requests
+- 📚 Documentation improvements
+- 🧪 Testing
 
 All contributions should follow the project's standards:
 
-Clean code
-Proper documentation
-Maintainable architecture
-Respect for existing systems
-🐞 Bug Reports
+- Clean code
+- Proper documentation
+- Maintainable architecture
+- Respect for existing systems
+
+---
+
+# 🐞 Bug Reports
 
 Before creating an issue:
 
-Search existing issues.
-Verify the problem.
-Provide reproduction steps.
-Include logs when possible.
-Explain your environment.
+- Search existing issues.
+- Verify the problem.
+- Provide reproduction steps.
+- Include logs when possible.
+- Explain your environment.
 
 A detailed report helps solve problems faster.
 
-💡 Feature Suggestions
+---
+
+# 💡 Feature Suggestions
 
 Suggestions are appreciated.
 
 Useful suggestions include:
 
-⚔️ New gameplay mechanics
-🧩 System improvements
-⚡ Performance optimizations
-📚 Documentation improvements
-🔧 Developer experience improvements
-🔐 Security
+- ⚔️ New gameplay mechanics
+- 🧩 System improvements
+- ⚡ Performance optimizations
+- 📚 Documentation improvements
+- 🔧 Developer experience improvements
+
+---
+
+# 🔐 Security
 
 If you discover a security vulnerability:
 
-⚠️ Do not publish sensitive information immediately.
+⚠️ **Do not publish sensitive information immediately.**
 
 Instead:
 
-Report the issue privately.
-Provide reproduction details.
-Allow time for investigation and resolution.
+1. Report the issue privately.
+2. Provide reproduction details.
+3. Allow time for investigation and resolution.
 
 Security issues are handled with priority.
 
-❓ Frequently Asked Questions
-<details> <summary><b>What is TimeEconomyPlugin?</b></summary>
+---
 
-TimeEconomyPlugin is a Minecraft plugin developed by SpectroDinner™ under the SpectroDinner DEV branch.
+# ❓ Frequently Asked Questions
+
+<details>
+<summary><b>What is TimeEconomyPlugin?</b></summary>
+
+TimeEconomyPlugin is a Minecraft plugin created by **SpectroDinner™** and developed under **SpectroDinner DEV**.
 
 It provides custom gameplay systems including:
 
-⏳ Time Economy
-⚔️ Player Classes
-🗡️ Legendary Weapons
-🏰 Clan Management
-🔐 Authentication
-🤖 External Integrations
-</details> <details> <summary><b>Which versions are supported?</b></summary>
+- ⏳ Time Economy
+- ⚔️ Player Classes
+- 🗡️ Legendary Weapons
+- 🏰 Clan Management
+- 🔐 Authentication
+- 🤖 External Integrations
+
+</details>
+
+<details>
+<summary><b>Which versions are supported?</b></summary>
 
 Current supported environment:
 
-Minecraft 1.21+
-Paper API
-Java 21
-</details> <details> <summary><b>Can I use TimeEconomyPlugin on my server?</b></summary>
+- Minecraft 1.21+
+- Paper API
+- Java 21
+
+</details>
+
+<details>
+<summary><b>Can I use TimeEconomyPlugin on my server?</b></summary>
 
 Yes.
 
 The plugin is designed to be configurable and adaptable for Minecraft servers running Paper.
 
-</details> <details> <summary><b>Will the plugin receive updates?</b></summary>
+</details>
+
+<details>
+<summary><b>Will the plugin receive updates?</b></summary>
 
 Yes.
 
-TimeEconomyPlugin is currently in a Released + Developing state.
+TimeEconomyPlugin is currently in a **Released + Developing** state.
 
-New updates focus on:
+Future updates focus on:
 
-Improvements
-Bug fixes
-Optimization
-Additional systems
+- Improvements
+- Bug fixes
+- Optimization
+- Additional systems
+
 </details>
+
 ---
 
 # 🌍 Community
