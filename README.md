@@ -966,10 +966,10 @@ Developed under **SpectroDinner DEV**
 
 <br>
 
-<sub>Copyright © 2024–2026 SpectroDinner™</sub>
+<sub>Copyright © 2024 - SpectroDinner™</sub>
 <br>
 <sub>Developed by SpectroDinner DEV</sub>
 <br>
-<sub>Licensed under SpectroDinner Public Source License</sub>
+<sub>Licensed under the SpectroDinner Public Source License</sub>
 
 </div>
