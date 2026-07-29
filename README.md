@@ -1,57 +1,42 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/BANNER-COMING_SOON-lightgrey?style=for-the-badge&labelColor=2d2d2d">
+<img src="./assets/banner.png" alt="TimeEconomyPlugin Banner">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LOGO-COMING_SOON-lightgrey?style=for-the-badge&labelColor=2d2d2d">
+<img src="./assets/logo.png" alt="TimeEconomyPlugin Logo" width="160">
 
-# ⚔️ SMPES
+<br>
+
+# ⏳ TimeEconomyPlugin
 
 ### Official Minecraft Plugin
 
 Developed by **SpectroDinner DEV**
 
-> *A custom survival experience built from scratch.*
+A project by **SpectroDinner™**
+
+> *A modular Minecraft gameplay framework built with Java and Paper API.*
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1800&color=58A6FF&center=true&vCenter=true&width=1000&lines=Official+Minecraft+Plugin;Private+Invite+Only+SMP;Built+with+Paper+API;Open+Source+After+Each+Season;Designed+for+Long-Term+Gameplay">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1800&color=58A6FF&center=true&vCenter=true&width=1000&lines=Minecraft+Plugin+Development;Built+with+Paper+API;Custom+Gameplay+Systems;Modular+Software+Architecture;SpectroDinner+DEV">
 
 <br>
 
 <img src="https://img.shields.io/badge/Minecraft-1.21+-5CB85C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Paper-API-2D9CDB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Season-T1-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Private-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Access-Invite%20Only-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Open%20Source-After%20Season%201-6F42C1?style=for-the-badge">
-<img src="https://img.shields.io/badge/License-SpectroDinner_Public_Source_License-lightgrey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Released%20%2B%20Developing-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Build-Maven-C71A36?style=for-the-badge">
+<img src="https://img.shields.io/badge/Organization-SpectroDinner%E2%84%A2-8A2BE2?style=for-the-badge">
 
-<br>
+<br><br>
 
-<!-- Enable these after the first public release -->
-
-<!--
-<img src="https://img.shields.io/github/stars/Elmoderador/SMPES?style=for-the-badge">
-
-<img src="https://img.shields.io/github/forks/Elmoderador/SMPES?style=for-the-badge">
-
-<img src="https://img.shields.io/github/watchers/Elmoderador/SMPES?style=for-the-badge">
-
-<img src="https://img.shields.io/github/issues/Elmoderador/SMPES?style=for-the-badge">
-
-<img src="https://img.shields.io/github/issues-pr/Elmoderador/SMPES?style=for-the-badge">
-
-<img src="https://img.shields.io/github/last-commit/Elmoderador/SMPES?style=for-the-badge">
-
-<img src="https://img.shields.io/github/commit-activity/m/Elmoderador/SMPES?style=for-the-badge">
-
-<img src="https://img.shields.io/github/v/release/Elmoderador/SMPES?style=for-the-badge">
-
-<img src="https://img.shields.io/github/downloads/Elmoderador/SMPES/total?style=for-the-badge">
--->
+<a href="https://github.com/Elmoderador/TimeEconomyPlugin">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+</a>
 
 </div>
 
@@ -60,17 +45,17 @@ Developed by **SpectroDinner DEV**
 # 📖 Table of Contents
 
 - 📖 About
-- 🌍 Seasons
 - 🎯 Project Goals
-- ⭐ Project Philosophy
+- ⭐ Philosophy
 - 📊 Technical Overview
-- 🏆 Core Principles
-- 📈 Development Status
+- 🧩 Core Systems
 - ✨ Features
-- 📸 Gallery
-- 🎥 Gameplay
-- 📚 Documentation
+- 📈 Development Status
+- 🏗️ Architecture
+- 📂 Repository Structure
 - 📦 Releases
+- 🛠️ Installation
+- 🗺️ Roadmap
 - 🤝 Contributing
 - ❓ FAQ
 - 📜 License
@@ -79,90 +64,67 @@ Developed by **SpectroDinner DEV**
 
 # 📖 About
 
-**SMPES** is the official plugin powering the private Minecraft server of the same name.
+**TimeEconomyPlugin** is a custom Minecraft plugin developed under **SpectroDinner DEV**, the development branch of **SpectroDinner™**.
 
-Unlike traditional survival servers that combine dozens of unrelated plugins, SMPES has been designed around a single vision: every mechanic should feel like part of the same game.
+The project is built using **Java 21** and **Paper API**, focusing on creating a modular gameplay framework with custom systems, scalable architecture and maintainable code.
 
-The project focuses on creating a polished survival experience through custom gameplay systems, balanced progression and clean software architecture.
+Unlike traditional server setups based on multiple unrelated plugins, TimeEconomyPlugin combines different gameplay mechanics into a unified ecosystem.
 
-Each feature is developed specifically for SMPES, ensuring consistency, maintainability and long-term scalability.
-
----
-
-# 🌍 Seasons
-
-Development is organized into **private seasons**.
-
-Every season serves as an opportunity to introduce new mechanics, rebalance existing systems and test ideas before they become publicly available.
-
-This development model allows the project to evolve while maintaining a high-quality gameplay experience.
-
-## 🔒 Invite Only
-
-SMPES is **not a public server**.
-
-Access is granted exclusively through invitations.
-
-Keeping the player base intentionally small allows us to:
-
-- Test mechanics under real gameplay conditions.
-- Balance features more effectively.
-- Gather valuable feedback.
-- Maintain a close-knit community.
+Each system is designed to work together while maintaining performance, flexibility and future expansion possibilities.
 
 ---
 
-## 🌐 Open Source Workflow
+# 🏢 About SpectroDinner™
 
-Although gameplay remains private during each season, the project itself is intended to become fully open source.
+**SpectroDinner™** is the organization behind TimeEconomyPlugin.
 
-At the conclusion of every season:
+The project is developed through the **SpectroDinner DEV** branch, focused on software development, experimentation and creation of custom systems.
 
-- 📂 The complete source code is published.
-- 📦 A GitHub Release is created.
-- 📚 Documentation is expanded.
-- 🚀 Development continues for the next season.
+Main objectives:
 
-This workflow preserves the unique experience of each season while allowing the community to learn from and contribute to the project afterwards.
+- 🏗️ Build high-quality software projects.
+- 📚 Maintain proper documentation.
+- 🧩 Create modular and scalable systems.
+- 🌍 Share knowledge through open-source development.
 
 ---
 
 # 🎯 Project Goals
 
-SMPES is built around several long-term objectives.
+TimeEconomyPlugin was created with several long-term objectives:
 
-- ⚔️ Create a unique survival experience.
-- 🧩 Build modular and maintainable systems.
-- 📈 Continuously improve gameplay every season.
-- 📚 Maintain high-quality documentation.
-- 🌍 Release polished open-source software.
-- 💡 Encourage experimentation and innovation.
+- ⏳ Create meaningful progression systems.
+- ⚔️ Introduce custom gameplay mechanics.
+- 🧩 Develop modular plugin architecture.
+- 📈 Improve Minecraft server experiences.
+- 📚 Maintain clear documentation.
+- 🌍 Provide a quality open-source project.
 
 ---
 
 # ⭐ Project Philosophy
 
-Every feature added to SMPES must satisfy three principles.
+Every feature added to TimeEconomyPlugin follows three main principles.
 
-### 🎮 Gameplay First
+## 🎮 Gameplay First
 
-Mechanics should improve the player experience rather than simply add complexity.
-
----
-
-### ⚖️ Balance Matters
-
-Powerful features should always include meaningful trade-offs.
+Features should improve the gameplay experience without adding unnecessary complexity.
 
 ---
 
-### 🛠️ Maintainability
+## ⚖️ Balance Matters
 
-Systems should remain easy to understand, expand and maintain over time.
+Powerful systems should always include progression, limitations or meaningful decisions.
 
 ---
 
-If a feature fails to meet these principles, it simply doesn't become part of the project.
+## 🛠️ Quality & Maintainability
+
+Code should remain clean, understandable and prepared for future development.
+
+---
+
+Features that do not meet these principles are redesigned or removed.
 
 ---
 
@@ -172,25 +134,143 @@ If a feature fails to meet these principles, it simply doesn't become part of th
 |-----------|-------|
 | 🎮 Game | Minecraft Java Edition |
 | ☕ Language | Java 21 |
-| 🔧 API | Paper API |
+| 🔧 API | Paper API 1.21+ |
 | 📦 Build Tool | Maven |
-| 🌐 Repository | Public |
-| 📂 Source Code | Private (Current Season) |
-| 🔒 Server Access | Invite Only |
-| 📅 Current Season | Season 1 |
+| 🗄️ Storage | YAML Configuration |
+| 📂 Repository | Public |
+| 🏢 Organization | SpectroDinner™ |
+| 💻 Development Branch | SpectroDinner DEV |
+| 📌 Version | v1.0.0 |
+| 🔄 Status | Released + Developing |
 | 📜 License | SpectroDinner Public Source License |
 
 ---
 
-# 🏆 Core Principles
+# 🧩 Core Systems
 
-<div align="center">
+TimeEconomyPlugin is composed of multiple interconnected systems designed to expand Minecraft gameplay while maintaining clean architecture, performance and scalability.
 
-| 🛡️ Quality | ⚖️ Balance | 📚 Documentation | 🚀 Innovation |
-|:----------:|:----------:|:----------------:|:-------------:|
-| Every feature should feel polished. | Gameplay before power. | Everything deserves proper documentation. | Every season should bring something new. |
+Each module has been developed as an independent component while remaining integrated into the main plugin ecosystem.
 
-</div>
+---
+
+# ⏳ Time Economy System
+
+The main progression system of TimeEconomyPlugin.
+
+It introduces a custom economy based on player activity and progression, allowing servers to create controlled gameplay loops.
+
+### Features
+
+- ⏳ Time-based progression
+- 📈 Player progression management
+- ⚖️ Configurable limits
+- 🔄 Automatic time tracking
+- 🗄️ Persistent player data
+
+---
+
+# ⚔️ Player Classes
+
+A custom class system designed to provide different gameplay styles.
+
+Each class offers unique mechanics, advantages and limitations to encourage different strategies.
+
+### Features
+
+- ⚔️ Custom player roles
+- ✨ Unique abilities
+- ⚖️ Balanced strengths and weaknesses
+- 📈 Progression possibilities
+- 🎮 Different playstyles
+
+---
+
+# 🗡️ Legendary Weapons
+
+Custom weapons designed to introduce mechanics beyond normal Minecraft equipment.
+
+Each Legendary Weapon has its own identity, abilities and balancing design.
+
+### Features
+
+- 🗡️ Custom weapon behaviour
+- ⚡ Special abilities
+- 📜 Custom lore
+- 📈 Upgrade possibilities
+- ⚖️ Balance-focused mechanics
+
+---
+
+# 🏰 Clan System
+
+A management system designed to organize players and communities.
+
+It provides tools for creating and managing groups while integrating with external services.
+
+### Features
+
+- 🏰 Clan creation
+- 👥 Player invitations
+- 🎨 Custom clan settings
+- 🤖 Discord role integration
+- ⚙️ Configurable limitations
+
+---
+
+# 🔐 Authentication System
+
+A lightweight authentication module designed to provide additional account protection.
+
+### Features
+
+- 🔒 Player registration
+- 🔑 Login system
+- 🛡️ Secure data handling
+- ⚙️ Configurable authentication settings
+
+---
+
+# 🤖 Discord Integration
+
+A bridge between Minecraft servers and Discord communities.
+
+### Features
+
+- 🔗 Minecraft ↔ Discord communication
+- 👥 Community management support
+- 📡 Event synchronization
+- ⚙️ External service integration
+
+---
+
+# 🌐 REST Integration
+
+An external communication layer that allows TimeEconomyPlugin to interact with external applications.
+
+### Features
+
+- 🌍 HTTP communication
+- 🔌 External integrations
+- 📊 Data exchange
+- 🧩 Future expansion support
+
+---
+
+# ✨ Features
+
+The current version of TimeEconomyPlugin includes multiple gameplay and management systems.
+
+| Feature | Status | Description |
+|---------|:------:|-------------|
+| ⏳ Time Economy | 🟢 Developing | Core progression and economy system. |
+| ⚔️ Player Classes | 🟢 Developing | Custom gameplay classes with unique mechanics. |
+| 🗡️ Legendary Weapons | 🟢 Developing | Custom weapons with special abilities. |
+| 🏰 Clan System | ✅ Released | Clan management and organization tools. |
+| 🔐 Authentication | ✅ Released | Player registration and login system. |
+| 🤖 Discord Integration | 🟢 Developing | Minecraft and Discord connectivity. |
+| 🌐 REST Integration | 🟢 Developing | External communication system. |
+| 📚 Documentation | 🟡 Improving | Expanding technical documentation. |
 
 ---
 
@@ -198,239 +278,98 @@ If a feature fails to meet these principles, it simply doesn't become part of th
 
 | Component | Status |
 |-----------|:------:|
-| Plugin Core | 🟢 Active Development |
-| Documentation | 🟡 In Progress |
-| Season 1 | 🟡 In Progress |
-| Open Source Release | 🔒 Planned |
-| Public Releases | ⏳ Coming Soon |
-
-> [!IMPORTANT]
->
-> This repository is currently used to document the project while Season 1 is in progress.
->
-> The complete source code will be published once the season has officially ended.
-
----
-
-# ✨ Core Features
-
-SMPES is designed around several interconnected systems that work together to create a unique survival experience.
-
-Unlike traditional Minecraft servers, every feature has been built specifically for SMPES and follows the project's core philosophy: **quality over quantity**.
+| Plugin Core | ✅ Stable |
+| Time Economy System | 🟢 Developing |
+| Player Classes | 🟢 Developing |
+| Legendary Weapons | 🟢 Developing |
+| Clan System | ✅ Released |
+| Authentication System | ✅ Released |
+| Discord Integration | 🟢 Developing |
+| REST Integration | 🟢 Developing |
+| Documentation | 🟡 Improving |
+| Future Systems | 📅 Planned |
 
 ---
 
-## ⚔️ Gameplay Systems
+# 📦 Current Version
 
-| System | Status | Description |
-|---------|:------:|-------------|
-| ⚔️ Classes | 🟢 Active | Unique playable classes with strengths, weaknesses and progression. |
-| 🛡️ Legendary Weapons | 🟢 Active | One unique Legendary Weapon featuring exclusive abilities and progression. |
-| 👑 Admin Weapon | 🟢 Active | Exclusive administrative weapon unavailable during normal gameplay. |
-| ⏳ Playtime System | 🟢 Active | Playtime-based progression limiter designed to balance gameplay. |
-| 🏰 Clans | 🟢 Active | Create invite-only clans with automatic Discord roles and custom colors. |
-| 📚 Documentation | 🚧 Writing | Official project documentation available in this repository. |
-| 🎒 Custom Items | 📅 Season 2 | Planned expansion introducing exclusive custom items. |
-| 👑 Bosses | 📅 Season 3 | Challenging PvE encounters with unique mechanics. |
-| 📜 Quests | 📅 Season 3 | Story-driven missions and progression systems. |
-
----
-
-# 📊 Project Statistics
-
-Project statistics are updated as development progresses.
-
-| Metric | Value |
-|---------|------:|
-| ☕ Java Version | 21 |
-| 🔧 Server Software | Paper 1.21+ |
-| 📅 Current Season | Season 1 |
-| 🏰 Maximum Clans | 4 |
-| ⚔️ Classes | 12 *(Planned for Season 1)* |
-| 🛡️ Legendary Weapons | 1 |
-| 👑 Admin Weapons | 1 |
-| 🎒 Custom Items | 0 *(Season 2)* |
-| 👑 Bosses | 0 *(Season 3)* |
-| 📜 Quests | 0 *(Season 3)* |
-| 📦 Public Releases | 0 |
-| 🌍 Source Code | 🔒 Private |
-| 📚 Documentation | 🚧 In Progress |
+```text
+Version: v1.0.0
+Minecraft: 1.21+
+Java: 21
+API: Paper
+Build Tool: Maven
+Storage: YAML
+Organization: SpectroDinner™
+Development Branch: SpectroDinner DEV
+Status: Released + Developing
+```
 
 ---
 
-# 📸 Gallery
+# 🏗️ Architecture Overview
 
-Screenshots will be published throughout the development of each season.
-
-<div align="center">
-
-## 🌍 Spawn
-
-<img src="https://img.shields.io/badge/SPAWN-SCREENSHOT_COMING_SOON-lightgrey?style=for-the-badge">
-
-<br><br>
-
-## ⚔️ Classes
-
-<img src="https://img.shields.io/badge/CLASSES-SCREENSHOT_COMING_SOON-lightgrey?style=for-the-badge">
-
-<br><br>
-
-## 🛡️ Legendary Weapons
-
-<img src="https://img.shields.io/badge/WEAPONS-SCREENSHOT_COMING_SOON-lightgrey?style=for-the-badge">
-
-<br><br>
-
-## 🏰 Clans
-
-<img src="https://img.shields.io/badge/CLANS-SCREENSHOT_COMING_SOON-lightgrey?style=for-the-badge">
-
-</div>
-
----
-
-# 🎥 Gameplay Showcase
-
-Gameplay previews will be added once Season 1 progresses.
-
-<div align="center">
-
-### ⚔️ Class Showcase
-
-<img src="https://img.shields.io/badge/GIF-COMING_SOON-orange?style=for-the-badge">
-
-<br><br>
-
-### 🛡️ Weapon Showcase
-
-<img src="https://img.shields.io/badge/GIF-COMING_SOON-orange?style=for-the-badge">
-
-<br><br>
-
-### 🏰 Clan Showcase
-
-<img src="https://img.shields.io/badge/GIF-COMING_SOON-orange?style=for-the-badge">
-
-<br><br>
-
-### 🎮 Gameplay
-
-<img src="https://img.shields.io/badge/GAMEPLAY-COMING_SOON-orange?style=for-the-badge">
-
-</div>
-
----
-
-# ⚔️ Classes
-
-> 📖 **Full Documentation:** [`/docs/classes.md`](docs/classes.md)
-
-The class system is one of the core gameplay mechanics of **SMPES**.
-
-Each class provides a unique combat role with its own strengths, weaknesses and progression path, encouraging different playstyles while maintaining overall game balance.
-
-### Documentation includes
-
-- ⚔️ Class Overview
-- ⚖️ Strengths & Weaknesses
-- 📈 Level & Mastery Progression
-- ✨ Passive Abilities
-- 🎮 Gameplay Style
-- 💡 Strategy Tips
-
----
-
-# 🛡️ Legendary Weapons
-
-> 📖 **Full Documentation:** [`/docs/weapons.md`](docs/weapons.md)
-
-Legendary Weapons are unique artifacts that cannot be obtained through vanilla gameplay.
-
-Each weapon features its own identity, progression system and special abilities designed to complement specific playstyles.
-
-### Current Status
-
-- ⚔️ Legendary Weapons: **1**
-- 👑 Admin Weapons: **1**
-
-### Documentation includes
-
-- ⚡ Weapon Abilities
-- 📈 Progression System
-- 📜 Custom Lore
-- ⚖️ Balance Information
-- 🎯 Usage Guide
-
----
-
-# 🏰 Clans
-
-> 📖 **Full Documentation:** [`/docs/clans.md`](docs/clans.md)
-
-The clan system allows players to create small communities and cooperate throughout the season.
-
-To ensure balance and maintain server performance, the system has several built-in limitations.
-
-### Current Features
-
-- 🏰 Maximum of **4 clans**
-- 🎨 Custom Clan Colors
-- 👥 Invite-Only Membership
-- 🛡️ Automatic Discord Role Creation
-
-### Planned Improvements
-
-Future seasons may introduce additional clan mechanics, progression systems and competitive features.
-
----
-
-# 🏗️ Project Architecture
+TimeEconomyPlugin follows a modular architecture designed to keep systems separated, maintainable and easy to expand.
 
 ```text
 Minecraft Server
         │
         ▼
-     Paper API
+    Paper API
         │
         ▼
-      SMPES Core
+ TimeEconomyPlugin Core
         │
- ┌──────┼─────────┐
- │      │         │
- ▼      ▼         ▼
-Classes Weapons Clans
+ ┌──────┼───────────────┐
+ │      │               │
+ ▼      ▼               ▼
+Economy Classes      Weapons
  │
  ▼
-Shared Systems
+Clans
  │
  ▼
-Utilities
+Authentication
+ │
+ ▼
+Integrations
+ │
+ ▼
+External Services
 ```
+
+The architecture is designed around:
+
+- 🧩 Modular components
+- ⚡ Performance optimization
+- 📚 Maintainable code
+- 🔄 Future expansion
+- 🛠️ Clean separation of systems
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-SMPES/
+TimeEconomyPlugin/
 │
 ├── assets/
 │   ├── banner.png
 │   ├── logo.png
-│   ├── screenshots/
-│   ├── gifs/
-│   └── svg/
+│   └── screenshots/
 │
 ├── docs/
 │   ├── wiki.md
-│   ├── rules.md
 │   ├── classes.md
 │   ├── weapons.md
 │   ├── clans.md
 │   └── faq.md
 │
 ├── src/
+│   └── main/
+│       └── java/
+│
+├── pom.xml
 │
 ├── README.md
 │
@@ -439,116 +378,87 @@ SMPES/
 
 ---
 
-# 🚧 Visual Showcase
-
-This section is reserved for future content.
-
-<div align="center">
-
-| Planned Content | Status |
-|:---------------|:------:|
-| 📸 Spawn Screenshots | ⏳ Coming Soon |
-| 🎮 Gameplay Screenshots | ⏳ Coming Soon |
-| ⚔️ Class Demonstrations | ⏳ Coming Soon |
-| 🛡️ Weapon Demonstrations | ⏳ Coming Soon |
-| 🏰 Clan Showcase | ⏳ Coming Soon |
-| 👥 Season Group Photo | ⏳ After Season 1 |
-
-</div>
-
----
-
-# 📚 Documentation
-
-Complete documentation is available inside the `/docs` directory.
-
-Every gameplay system has its own dedicated documentation to make both development and usage easier.
-
-| Document | Description | Status |
-|----------|-------------|:------:|
-| 📖 Wiki | General information about SMPES. | 🚧 |
-| 📜 Rules | Official server rules. | 🚧 |
-| ⚔️ Classes | Complete class documentation. | 🚧 |
-| 🛡️ Weapons | Legendary weapons guide. | 🚧 |
-| 🏰 Clans | Clan system documentation. | 🚧 |
-| ❓ FAQ | Frequently Asked Questions. | 🚧 |
-
----
-
 # 📦 Releases
 
-Every public release contains:
+Each public release of TimeEconomyPlugin includes:
 
-- 📦 Compiled plugin (.jar)
+- 📦 Compiled plugin `.jar`
 - 📄 Complete changelog
 - 🐞 Bug fixes
 - ✨ New features
 - 📚 Documentation updates
 - ⚡ Performance improvements
 
-## Versioning
+---
 
-SMPES follows **Semantic Versioning**.
+# 🔢 Versioning
 
-| Version | Meaning |
-|---------|---------|
-| Major | Large gameplay updates or seasons |
-| Minor | New mechanics and features |
-| Patch | Bug fixes and improvements |
+TimeEconomyPlugin follows **Semantic Versioning**.
+
+Format:
+
+```text
+MAJOR.MINOR.PATCH
+```
 
 Example:
 
 ```text
 v1.0.0
 │ │ │
-│ │ └── Patch
-│ └──── Minor
-└────── Major
+│ │ └── Patch: Bug fixes and improvements
+│ └──── Minor: New features and systems
+└────── Major: Large architectural changes
 ```
 
 ---
 
-# 🚀 Installation
+# 🛠️ Installation
 
-> Available after the first public release.
+## Requirements
 
-### Requirements
+Before installing TimeEconomyPlugin, make sure your server meets these requirements:
 
-- Java 21
-- Paper Server 1.21+
-- Maven (for development)
+- ☕ Java 21+
+- 🎮 Minecraft 1.21+
+- 🔧 Paper Server
+- 📦 TimeEconomyPlugin release file
 
-### Installation
+---
 
-1. Download the latest Release.
-2. Place the `.jar` inside your plugins folder.
-3. Restart the server.
+## Installation Steps
+
+1. Download the latest release.
+2. Place the `.jar` file inside your server's `plugins` folder.
+3. Start or restart your server.
 4. Configure the plugin if required.
-5. Enjoy.
+5. Enjoy TimeEconomyPlugin.
 
 ---
 
-# 🛠️ Building
+# 🏗️ Building From Source
 
-Clone the repository.
+Developers can build TimeEconomyPlugin using Maven.
 
-```bash
-git clone https://github.com/Elmoderador/SMPES.git
-```
-
-Enter the project.
+## Clone Repository
 
 ```bash
-cd SMPES
+git clone https://github.com/Elmoderador/TimeEconomyPlugin.git
 ```
 
-Compile.
+Enter the project directory:
+
+```bash
+cd TimeEconomyPlugin
+```
+
+Build the plugin:
 
 ```bash
 mvn clean package
 ```
 
-The compiled plugin will be generated inside:
+The compiled `.jar` file will be generated inside:
 
 ```text
 target/
@@ -556,99 +466,45 @@ target/
 
 ---
 
-# 🧩 Why SMPES?
-
-| Feature | Vanilla | Generic Servers | SMPES |
-|----------|:-------:|:---------------:|:----:|
-| Custom Gameplay | ❌ | ⚠️ | ✅ |
-| Balanced Progression | ❌ | ⚠️ | ✅ |
-| Seasonal Development | ❌ | ❌ | ✅ |
-| Invite Only Testing | ❌ | ❌ | ✅ |
-| Open Source | ❌ | ⚠️ | ✅ |
-| Complete Documentation | ❌ | ⚠️ | ✅ |
-
----
-
 # 🗺️ Development Roadmap
 
-## ✅ Season 1
-
-- Core plugin
-- Classes
-- Legendary Weapons
-- Playtime System
-- Clan Foundation
-- Documentation
+TimeEconomyPlugin follows a continuous development model focused on improving gameplay systems, stability and architecture.
 
 ---
 
-## 🚧 Season 2
+## ✅ Version 1.0.x
 
-- Custom Items
-- New Classes
-- Clan Improvements
-- GUI Improvements
-- More Legendary Weapons
+Current development cycle.
 
----
+Completed:
 
-## 🔮 Season 3
+- ✅ Plugin Core
+- ✅ Time Economy Foundation
+- ✅ Player Class System
+- ✅ Legendary Weapons Foundation
+- ✅ Clan System
+- ✅ Authentication System
+- ✅ Discord Integration
 
-- Bosses
-- Quests
-- Events
-- More Progression
-- Endgame Content
+Current improvements:
 
----
-
-# 🔐 Security
-
-If you discover a vulnerability, please **do not create a public issue**.
-
-Instead, contact the maintainers privately until the issue has been resolved.
+- 📚 Documentation expansion
+- ⚡ Performance improvements
+- ⚖️ Balance adjustments
+- 🧩 New integrations
 
 ---
 
-# 🐞 Bug Reports
+## 🔮 Future Versions
 
-Before opening an Issue:
+Planned improvements:
 
-- Search existing issues.
-- Verify the bug.
-- Explain how to reproduce it.
-- Include logs if possible.
-- Include screenshots when relevant.
-
----
-
-# 💡 Suggestions
-
-Suggestions are always welcome.
-
-Ideas are especially appreciated regarding:
-
-- Gameplay balance
-- Performance
-- Code quality
-- Documentation
-- New mechanics
-
----
-
-# 🤝 Contributing
-
-Contributions will become available after the project is open sourced.
-
-Ways to contribute:
-
-- 🐞 Report bugs
-- 💡 Suggest features
-- 🔀 Submit Pull Requests
-- 📚 Improve documentation
-- 🧪 Help testing
-
-Please keep contributions clean, documented and consistent with the existing codebase.
+- 🎒 Additional custom items
+- ⚔️ New gameplay mechanics
+- 🏰 Expanded clan features
+- 📊 More configuration options
+- 🔌 Additional integrations
+- 📚 Extended documentation
 
 ---
 
@@ -661,94 +517,287 @@ Idea
 Planning
  │
  ▼
+Design
+ │
+ ▼
 Development
  │
  ▼
 Testing
  │
  ▼
-Private Season
+Release
+ │
+ ▼
+Continuous Improvement
+```
+
+---
+
+# 🤝 Contributing
+
+TimeEconomyPlugin welcomes contributions from developers interested in improving the project.
+
+Ways to contribute:
+
+- 🐞 Report bugs
+- 💡 Suggest features
+- 🔀 Submit Pull Requests
+- 📚 Improve documentation
+- 🧪 Help testing
+
+All contributions should follow the project's standards:
+
+- Clean code
+- Proper documentation
+- Respect existing architecture
+- Maintain compatibility
+
+---
+
+---
+
+# 📦 Releases
+
+Each public release of **TimeEconomyPlugin** contains:
+
+- 📦 Compiled plugin `.jar`
+- 📄 Complete changelog
+- 🐞 Bug fixes
+- ✨ New features
+- 📚 Documentation updates
+- ⚡ Performance improvements
+
+Releases are published through GitHub when a stable version is available.
+
+---
+
+# 🔢 Versioning
+
+TimeEconomyPlugin follows **Semantic Versioning**.
+
+Format:
+
+MAJOR.MINOR.PATCH
+
+Example:
+
+v1.0.0
+│ │ │
+│ │ └── Patch: Bug fixes and improvements
+│ └──── Minor: New features and gameplay systems
+└────── Major: Large architectural changes
+
+Version updates follow the evolution of the project and its internal systems.
+
+🛠️ Installation
+Requirements
+
+Before installing TimeEconomyPlugin, make sure your server meets these requirements:
+
+☕ Java 21+
+🎮 Minecraft 1.21+
+🔧 Paper Server
+📦 TimeEconomyPlugin release file
+Installation Steps
+Download the latest release from GitHub.
+Place the .jar file inside your server's plugins folder.
+Start or restart your Minecraft server.
+Configure the plugin if necessary.
+Enjoy TimeEconomyPlugin.
+🏗️ Building From Source
+
+Developers can compile TimeEconomyPlugin using Maven.
+
+Clone Repository
+git clone https://github.com/Elmoderador/TimeEconomyPlugin.git
+
+Enter the project directory:
+
+cd TimeEconomyPlugin
+
+Build the plugin:
+
+mvn clean package
+
+The generated .jar file will be located in:
+
+target/
+🗺️ Development Roadmap
+
+TimeEconomyPlugin follows a continuous development model focused on improving gameplay systems, stability and software architecture.
+
+✅ Version 1.0.x
+
+Current development cycle.
+
+Completed:
+
+✅ Plugin Core
+✅ Time Economy System
+✅ Player Classes
+✅ Legendary Weapons
+✅ Clan System
+✅ Authentication System
+✅ Discord Integration
+✅ REST Integration
+
+Current improvements:
+
+📚 Documentation expansion
+⚡ Performance optimization
+⚖️ Balance improvements
+🧩 Additional integrations
+🛠️ Internal refactoring
+🔮 Future Versions
+
+Planned improvements:
+
+🎒 Additional custom items
+⚔️ New gameplay mechanics
+🏰 Expanded clan features
+📊 More configuration options
+🔌 Additional integrations
+📚 More technical documentation
+📈 Development Workflow
+Idea
+ │
+ ▼
+Planning
+ │
+ ▼
+Design
+ │
+ ▼
+Development
+ │
+ ▼
+Testing
  │
  ▼
 Release
  │
  ▼
-Open Source
-```
+Continuous Improvement
+🤝 Contributing
 
----
+Contributions are welcome.
 
-# ❓ Frequently Asked Questions
+Developers can help improve TimeEconomyPlugin through:
 
-<details>
-<summary><b>Why isn't the source code public yet?</b></summary>
+🐞 Bug reports
+💡 Feature suggestions
+🔀 Pull Requests
+📚 Documentation improvements
+🧪 Testing
 
-The current season is still active.
+All contributions should follow the project's standards:
 
-The code will be published once the season officially ends.
+Clean code
+Proper documentation
+Maintainable architecture
+Respect for existing systems
+🐞 Bug Reports
 
-</details>
+Before creating an issue:
 
-<details>
-<summary><b>Can I play on SMPES?</b></summary>
+Search existing issues.
+Verify the problem.
+Provide reproduction steps.
+Include logs when possible.
+Explain your environment.
+
+A detailed report helps solve problems faster.
+
+💡 Feature Suggestions
+
+Suggestions are appreciated.
+
+Useful suggestions include:
+
+⚔️ New gameplay mechanics
+🧩 System improvements
+⚡ Performance optimizations
+📚 Documentation improvements
+🔧 Developer experience improvements
+🔐 Security
+
+If you discover a security vulnerability:
+
+⚠️ Do not publish sensitive information immediately.
+
+Instead:
+
+Report the issue privately.
+Provide reproduction details.
+Allow time for investigation and resolution.
+
+Security issues are handled with priority.
+
+❓ Frequently Asked Questions
+<details> <summary><b>What is TimeEconomyPlugin?</b></summary>
+
+TimeEconomyPlugin is a Minecraft plugin developed by SpectroDinner™ under the SpectroDinner DEV branch.
+
+It provides custom gameplay systems including:
+
+⏳ Time Economy
+⚔️ Player Classes
+🗡️ Legendary Weapons
+🏰 Clan Management
+🔐 Authentication
+🤖 External Integrations
+</details> <details> <summary><b>Which versions are supported?</b></summary>
+
+Current supported environment:
+
+Minecraft 1.21+
+Paper API
+Java 21
+</details> <details> <summary><b>Can I use TimeEconomyPlugin on my server?</b></summary>
 
 Yes.
 
-However, every season is Invite Only.
+The plugin is designed to be configurable and adaptable for Minecraft servers running Paper.
 
-</details>
-
-<details>
-<summary><b>Can I use this plugin on my own server?</b></summary>
+</details> <details> <summary><b>Will the plugin receive updates?</b></summary>
 
 Yes.
 
-Once the public release is available.
+TimeEconomyPlugin is currently in a Released + Developing state.
 
+New updates focus on:
+
+Improvements
+Bug fixes
+Optimization
+Additional systems
 </details>
-
-<details>
-<summary><b>Will there be more seasons?</b></summary>
-
-Absolutely.
-
-Each season introduces new mechanics, improvements and gameplay systems.
-
-</details>
-
 ---
 
 # 🌍 Community
 
-Although SMPES is currently developed around a private Invite Only server, the long-term vision extends beyond a single season.
+TimeEconomyPlugin is designed as a long-term open-source Minecraft development project.
 
-After every season, the project becomes progressively more open, allowing the community to learn from the codebase, contribute improvements and reuse systems for their own servers.
+The objective is not only creating a plugin, but also building a complete ecosystem focused on:
 
-The goal is to build not only a Minecraft plugin, but also a well-documented open-source project.
+- 📚 Clear documentation
+- 🏗️ Clean software architecture
+- ⚡ Performance and stability
+- ⚖️ Balanced gameplay systems
+- 🌍 Open-source collaboration
 
----
-
-# 🏆 Season Archive
-
-Every season represents a major milestone in the history of SMPES.
-
-| Season | Status | Source Code | Release |
-|:------:|:------:|:-----------:|:-------:|
-| ⚔️ Season 1 | 🟢 Active | 🔒 Private | ⏳ Coming Soon |
-| 🏰 Season 2 | 📅 Planned | 🔒 Private | — |
-| 👑 Season 3 | 📅 Planned | 🔒 Private | — |
+The project continues evolving through updates, improvements and new ideas developed by **SpectroDinner DEV**.
 
 ---
 
-# 📅 Development Timeline
+# 🏆 Project Milestones
 
-| Season | Status | Progress | Public Source |
-|:-------|:------:|:--------:|:-------------:|
-| ⚔️ **Season 1** | 🟢 Active | ▰▰▰▰▰▰▰▱▱▱ **70%** | 🔒 Private |
-| 🏰 **Season 2** | 📅 Planned | ▱▱▱▱▱▱▱▱▱▱ **0%** | 🔒 Private |
-| 👑 **Season 3** | 📅 Planned | ▱▱▱▱▱▱▱▱▱▱ **0%** | 🔒 Private |
-
-> **Lifecycle:** 💡 Development → 🧪 Private SMP → 📦 Release → 🌍 Open Source
+| Version | Status | Highlights |
+|:------:|:------:|-------------|
+| 🚀 v1.0.0 | ✅ Released | First stable public release |
+| 🔄 v1.0.x | 🟢 Developing | Improvements, fixes and additional features |
+| 🔮 Future Versions | 📅 Planned | New systems and expansions |
 
 ---
 
@@ -758,18 +807,22 @@ Every season represents a major milestone in the history of SMPES.
 
 | Role | Member |
 |------|--------|
-| 👨‍💻 Lead Developer | SpectroDinner DEV |
+| 🏢 Organization | SpectroDinner™ |
+| 💻 Development Branch | SpectroDinner DEV |
+| 👨‍💻 Lead Developer | Elmoderador |
 | ☕ Main Language | Java |
 | 🔧 API | Paper API |
 | 📦 Build Tool | Maven |
 
 ---
 
-## Special Thanks
+## Technologies Used
 
-A huge thank you to everyone participating in SMPES.
+<div align="center">
 
-Every bug report, suggestion and gameplay session helps improve the project for future seasons.
+<img src="https://skillicons.dev/icons?i=java,maven,git,github,linux"/>
+
+</div>
 
 ---
 
@@ -777,12 +830,12 @@ Every bug report, suggestion and gameplay session helps improve the project for 
 
 <div align="center">
 
-| Resource | Status |
-|----------|:------:|
-| 🌍 Website | <img src="https://img.shields.io/badge/COMING_SOON-lightgrey?style=flat-square"> |
-| 💬 Discord | <img src="https://img.shields.io/badge/COMING_SOON-lightgrey?style=flat-square"> |
-| 📖 Wiki | <img src="https://img.shields.io/badge/COMING_SOON-lightgrey?style=flat-square"> |
-| 🎥 Trailer | <img src="https://img.shields.io/badge/COMING_SOON-lightgrey?style=flat-square"> |
+| Resource | Link |
+|----------|------|
+| 💻 GitHub Repository | [TimeEconomyPlugin](https://github.com/Elmoderador/TimeEconomyPlugin) |
+| 📚 Documentation | Available in `/docs` |
+| 🐞 Issues | GitHub Issues |
+| 📦 Releases | GitHub Releases |
 
 </div>
 
@@ -790,94 +843,55 @@ Every bug report, suggestion and gameplay session helps improve the project for 
 
 # ⭐ Support the Project
 
-If you enjoy SMPES or find this repository useful, consider supporting the project by:
+If you find **TimeEconomyPlugin** useful, you can support the project by:
 
 - ⭐ Starring the repository.
-- 🍴 Forking the project.
 - 🐞 Reporting bugs.
-- 💡 Suggesting new ideas.
-- 📚 Improving the documentation.
+- 💡 Suggesting improvements.
+- 📚 Improving documentation.
+- 🔀 Contributing code.
 
-Every contribution helps the project grow.
+Every contribution helps the project continue growing.
 
 ---
 
 # 📜 License
 
-This project is distributed under the **SpectroDinner Public Source License**.
+TimeEconomyPlugin is distributed under the **SpectroDinner Public Source License**.
 
-See the **LICENSE** file for more information.
-
----
-
-# 🔮 Future Plans
-
-The following features are planned for future seasons.
-
-| Feature | Planned |
-|----------|:------:|
-| 🎒 Custom Items | ✅ |
-| 👑 Bosses | ✅ |
-| 📜 Quests | ✅ |
-| 🎭 New Classes | ✅ |
-| ⚔️ More Legendary Weapons | ✅ |
-| 🎉 Seasonal Events | ✅ |
-| 🌎 Expanded Documentation | ✅ |
+See the `LICENSE` file for more information.
 
 ---
 
-# 📈 Repository Growth
+# 🚀 Final Notes
 
-Repository statistics will become available after the first public release.
+TimeEconomyPlugin is more than a Minecraft plugin.
 
-<div align="center">
+It is a long-term software project created by **SpectroDinner™** and developed under **SpectroDinner DEV**, focused on:
 
-<img src="https://img.shields.io/badge/STARS-COMING_SOON-lightgrey?style=for-the-badge">
+- Creating custom Minecraft gameplay systems.
+- Maintaining clean and scalable architecture.
+- Providing documented and maintainable software.
+- Continuously improving through updates.
 
-<img src="https://img.shields.io/badge/FORKS-COMING_SOON-lightgrey?style=for-the-badge">
+Built with:
 
-<img src="https://img.shields.io/badge/DOWNLOADS-COMING_SOON-lightgrey?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/CONTRIBUTORS-COMING_SOON-lightgrey?style=for-the-badge">
-
-</div>
-
----
-
-# 📂 Repository Overview
-
-```text
-SMPES
-│
-├── 📄 README.md
-├── 📚 docs/
-├── 🖼️ assets/
-├── 💻 src/
-├── 📦 releases/
-└── 📜 LICENSE
-```
-
----
-
-# 💬 Final Notes
-
-SMPES is more than a Minecraft plugin.
-
-It is a long-term project focused on delivering polished gameplay, maintainable code and comprehensive documentation while embracing open-source development after each completed season.
-
-Thank you for visiting the repository.
-
-We hope you enjoy following the development of SMPES.
+- ☕ Java
+- 🔧 Paper API
+- 📦 Maven
+- ❤️ Dedication and continuous development
 
 ---
 
 <div align="center">
 
-# ⚔️ SMPES
+# ⏳ TimeEconomyPlugin
 
 ### Official Minecraft Plugin
 
-Developed by **SpectroDinner DEV**
+Created by **SpectroDinner™**
+
+Developed under **SpectroDinner DEV**
 
 <br>
 
@@ -885,12 +899,14 @@ Developed by **SpectroDinner DEV**
 
 <br><br>
 
-**Built with Java, Paper API and many hours of development.**
+**Built with Java, Paper API and dedication.**
 
 <br>
 
-<sub>Copyright © 2024–2026 SpectroDinner (SpectroDinner DEV)</sub>
+<sub>Copyright © 2024–2026 SpectroDinner™</sub>
 <br>
-<sub>Licensed under the SpectroDinner Public Source License.</sub>
+<sub>Developed by SpectroDinner DEV</sub>
+<br>
+<sub>Licensed under SpectroDinner Public Source License</sub>
 
 </div>
