@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="./assets/logo.png" alt="TimeEconomyPlugin Logo" width="160">
+<img src="../assets/logo.png" alt="TimeEconomyPlugin Logo" width="160">
 
 <br>
 
