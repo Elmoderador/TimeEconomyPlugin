@@ -555,8 +555,6 @@ All contributions should follow the project's standards:
 
 ---
 
----
-
 # 📦 Releases
 
 Each public release of **TimeEconomyPlugin** contains:
@@ -569,8 +567,6 @@ Each public release of **TimeEconomyPlugin** contains:
 - ⚡ Performance improvements
 
 Releases are published through GitHub when a stable version is available.
-
----
 
 ---
 
