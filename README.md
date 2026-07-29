@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="TimeEconomyPlugin Logo" width="180">
+<img src="./assets/logo.png" alt="TimeEconomyPlugin Logo" width="300">
 
 <br>
 
