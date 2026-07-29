@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="../assets/logo.png" alt="TimeEconomyPlugin Logo" width="160">
+<img src="https://raw.githubusercontent.com/Elmoderador/TimeEconomyPlugin/main/assets/logo.png" width="160" alt="TimeEconomyPlugin Logo">
 
 <br>
 
