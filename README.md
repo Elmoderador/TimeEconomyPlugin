@@ -649,9 +649,11 @@ TimeEconomyPlugin follows a continuous development model focused on improving ga
 
 ---
 
-## ✅ Version 1.0.x
+## 🚀 Version 1.0.0
 
-Current development cycle.
+Current latest stable release.
+
+Version **v1.0.0** is the latest stable release. Future updates will focus on improvements, new gameplay systems and bug fixes.
 
 ### Completed
 
@@ -820,15 +822,7 @@ The plugin is designed to be configurable and adaptable for Minecraft servers ru
 <summary><b>Will the plugin receive updates?</b></summary>
 
 Yes.
-
-TimeEconomyPlugin is currently in a **Released + Developing** state.
-
-Future updates focus on:
-
-- Improvements
-- Bug fixes
-- Optimization
-- Additional systems
+Version v1.0.0 is the first stable release. Future updates will continue under the 1.x series with new gameplay systems, improvements, optimizations and bug fixes.
 
 </details>
 
