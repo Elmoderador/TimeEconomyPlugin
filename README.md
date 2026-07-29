@@ -128,9 +128,10 @@ Features that do not meet these principles are redesigned or removed.
 
 | Property | Value |
 |-----------|-------|
-| 🎮 Game | Minecraft Java Edition |
+| 🎮 Platform | Minecraft |
 | ☕ Language | Java 21 |
-| 🔧 API | Paper API 1.21+ |
+| 🔧 Server API | Paper API 1.21+ |
+| 🌉 Compatibility | Java, Bedrock (Geyser/Floodgate) & Offline Mode |
 | 📦 Build Tool | Maven |
 | 🗄️ Storage | YAML Configuration |
 | 📂 Repository | Public |
@@ -147,6 +148,48 @@ Features that do not meet these principles are redesigned or removed.
 TimeEconomyPlugin is composed of multiple interconnected systems designed to expand Minecraft gameplay while maintaining clean architecture, performance and scalability.
 
 Each module has been developed as an independent component while remaining integrated into the main plugin ecosystem.
+
+---
+
+# 📋 Requirements
+
+TimeEconomyPlugin requires the following environment to operate correctly.
+
+## Required
+
+| Dependency | Purpose |
+|------------|---------|
+| ☕ Java 21+ | Runtime environment |
+| 🎮 Minecraft 1.21+ | Supported Minecraft version |
+| 🔧 Paper Server | Supported server software |
+| 👥 Citizens | NPC management and core plugin features |
+
+> [!IMPORTANT]
+> Citizens is currently **required**. The plugin relies on Citizens for several core systems and will not function correctly without it.
+
+---
+
+## Recommended
+
+The following plugins are optional but highly recommended for the best experience.
+
+| Plugin | Purpose |
+|--------|---------|
+| 🌉 Geyser | Bedrock Edition compatibility |
+| 🔑 Floodgate | Bedrock players without Java accounts |
+| 🔄 ViaVersion | Cross-version compatibility |
+| ⏪ ViaBackwards | Support for older client versions |
+| ⏮️ ViaRewind | Additional legacy version support |
+
+---
+
+## Compatibility
+
+| Platform | Status |
+|----------|:------:|
+| Java Edition | ✅ Fully Supported |
+| Bedrock Edition (Geyser + Floodgate) | ✅ Supported |
+| Offline / Non-Premium (Floodgate) | ✅ Supported |
 
 ---
 
