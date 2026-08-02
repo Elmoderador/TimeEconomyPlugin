@@ -23,7 +23,7 @@ A project by **SpectroDinner™**
 <img src="https://img.shields.io/badge/Minecraft-1.21+-5CB85C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Paper-API-2D9CDB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Version-v1.5.0-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Status-Released%20%2B%20Developing-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Build-Maven-C71A36?style=for-the-badge">
 <img src="https://img.shields.io/badge/Organization-SpectroDinner%E2%84%A2-8A2BE2?style=for-the-badge">
