@@ -971,7 +971,7 @@ The project continues evolving through updates developed by **SpectroDinner DEV*
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,maven,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=java,maven,github"/>
 
 </div>
 
