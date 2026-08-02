@@ -23,7 +23,7 @@ A project by **SpectroDinner™**
 <img src="https://img.shields.io/badge/Minecraft-1.21+-5CB85C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Paper-API-2D9CDB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Version-v1.5.0-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Version-v1.3.0-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Status-Released%20%2B%20Developing-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Build-Maven-C71A36?style=for-the-badge">
 <img src="https://img.shields.io/badge/Organization-SpectroDinner%E2%84%A2-8A2BE2?style=for-the-badge">
@@ -137,7 +137,7 @@ Features that do not meet these principles are redesigned or removed.
 | 📂 Repository | Public |
 | 🏢 Organization | SpectroDinner™ |
 | 💻 Development Branch | SpectroDinner DEV |
-| 📌 Version | v1.0.0 |
+| 📌 Version | v1.3.0 |
 | 🔄 Status | Released + Developing |
 | 📜 License | SpectroDinner Public Source License |
 
@@ -333,7 +333,7 @@ The current version of TimeEconomyPlugin includes multiple gameplay and manageme
 # 📦 Current Version
 
 ```text
-Version: v1.5.0
+Version: v1.3.0
 Minecraft: 1.21+
 Java: 21
 API: Paper
@@ -511,7 +511,7 @@ TimeEconomyPlugin follows a continuous development model focused on improving ga
 
 ---
 
-## ✅ Version 1.5.0
+## ✅ Version 1.3.0
 
 Current development cycle.
 
@@ -692,11 +692,11 @@ TimeEconomyPlugin follows a continuous development model focused on improving ga
 
 ---
 
-## 🚀 Version 1.5.0
+## 🚀 Version 1.3.0
 
 Current latest stable release.
 
-Version **v1.5.0** is the latest stable release. Future updates will focus on improvements, new gameplay systems and bug fixes.
+Version **v1.3.0** is the latest stable release. Future updates will focus on improvements, new gameplay systems and bug fixes.
 
 ### Completed
 
@@ -865,7 +865,7 @@ The plugin is designed to be configurable and adaptable for Minecraft servers ru
 <summary><b>Will the plugin receive updates?</b></summary>
 
 Yes.
-Version v1.5.0 is the first stable release. Future updates will continue under the 1.x series with new gameplay systems, improvements, optimizations and bug fixes.
+Version v1.3.0 is the first stable release. Future updates will continue under the 1.x series with new gameplay systems, improvements, optimizations and bug fixes.
 
 </details>
 
@@ -891,8 +891,8 @@ The project continues evolving through updates, improvements and new ideas devel
 
 | Version | Status | Highlights |
 |:------:|:------:|-------------|
-| 🚀 v1.5.0 | ✅ Released | First stable public release |
-| 🔄 v1.6.0 | 🟢 Developing | Improvements, fixes and additional features |
+| 🚀 v1.3.0 | ✅ Released | First stable public release |
+| 🔄 v1.4.0 | 🟢 Developing | Improvements, fixes and additional features |
 | 🔮 Future Versions | 📅 Planned | New systems and expansions |
 
 ---
