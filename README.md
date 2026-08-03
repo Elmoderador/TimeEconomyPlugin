@@ -20,10 +20,10 @@ A project by **SpectroDinner™**
 
 <br>
 
-<img src="https://img.shields.io/badge/Minecraft-1.21+-5CB85C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Minecraft-1.21.11+-5CB85C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Paper-API-2D9CDB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Version-v1.3.0-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Version-v1.4.0-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Status-Released-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Build-Maven-C71A36?style=for-the-badge">
 <img src="https://img.shields.io/badge/Organization-SpectroDinner%E2%84%A2-8A2BE2?style=for-the-badge">
@@ -156,14 +156,14 @@ Features that do not meet these principles are redesigned or removed.
 |-----------|-------|
 | 🎮 Platform | Minecraft |
 | ☕ Language | Java 21 |
-| 🔧 Server API | Paper API 1.21+ |
+| 🔧 Server API | Paper API 1.21.11+ |
 | 🌉 Compatibility | Java Edition, Bedrock (Geyser/Floodgate), Offline Mode |
 | 📦 Build Tool | Maven |
 | 🗄️ Storage | YAML Configuration |
 | 📂 Repository | Public |
 | 🏢 Organization | SpectroDinner™ |
 | 💻 Development Branch | SpectroDinner DEV |
-| 📌 Current Version | v1.3.0 |
+| 📌 Current Version | v1.4.0 |
 | 🔄 Status | Released |
 | 📜 License | SpectroDinner Public Source License |
 
@@ -176,7 +176,7 @@ Current project overview:
 | Metric | Value |
 |--------|-------|
 | ☕ Java Version | 21 |
-| 🎮 Minecraft Version | 1.21+ |
+| 🎮 Minecraft Version | 1.21.11+ |
 | 🔧 API | Paper |
 | 📦 Build System | Maven |
 | 🌍 Languages | 5 |
@@ -195,7 +195,7 @@ TimeEconomyPlugin requires the following environment.
 | Dependency | Purpose |
 |------------|---------|
 | ☕ Java 21+ | Runtime environment |
-| 🎮 Minecraft 1.21+ | Supported Minecraft version |
+| 🎮 Minecraft 1.21.11+ | Supported Minecraft version |
 | 🔧 Paper Server | Required server software |
 | 👥 Citizens | NPC management and core features |
 
@@ -362,8 +362,8 @@ The current version of TimeEconomyPlugin includes multiple gameplay and manageme
 # 📦 Current Release
 
 ```text
-Version: v1.3.0
-Minecraft: 1.21+
+Version: v1.4.0
+Minecraft: 1.21.11+
 Java: 21
 API: Paper
 Build Tool: Maven
@@ -555,7 +555,7 @@ MAJOR.MINOR.PATCH
 Example:
 
 ```text
-v1.3.0
+vX.Y.Z
 │ │ │
 │ │ └── Patch: Bug fixes and small improvements
 │ └──── Minor: New features and gameplay systems
@@ -570,7 +570,7 @@ TimeEconomyPlugin follows a continuous development model focused on improving ga
 
 ---
 
-## ✅ Version 1.3.0 — Quality of Life Update
+## ✅ Version 1.4.0 — Quality of Life Update
 
 Current released version.
 
@@ -712,7 +712,7 @@ TimeEconomyPlugin/
 Before installing TimeEconomyPlugin, make sure your server meets these requirements:
 
 - ☕ Java 21+
-- 🎮 Minecraft 1.21+
+- 🎮 Minecraft 1.21.11+
 - 🔧 Paper Server
 - 📦 TimeEconomyPlugin release file
 - 👥 Citizens plugin
@@ -894,7 +894,7 @@ It provides custom gameplay systems including:
 
 Current supported environment:
 
-- Minecraft 1.21+
+- Minecraft 1.21.11+
 - Paper API
 - Java 21
 
@@ -946,8 +946,7 @@ The project continues evolving through updates developed by **SpectroDinner DEV*
 
 | Version | Status | Highlights |
 |:------:|:------:|-------------|
-| 🚀 v1.3.0 | ✅ Released | Quality of Life Update |
-| 🔄 v1.4.0 | 🟡 Preparing | Polish Update |
+| 🚀 v1.4.0 | ✅ Released | Polish Update |
 | 🔮 Future Versions | 📅 Planned | New gameplay and architecture improvements |
 
 ---
