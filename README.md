@@ -217,6 +217,7 @@ The following plugins are optional but recommended.
 | 🔄 ViaVersion | Cross-version support |
 | ⏪ ViaBackwards | Older client support |
 | ⏮️ ViaRewind | Legacy version support |
+| 🔧 Velocity | Server proxy and network connection |
 
 ---
 
