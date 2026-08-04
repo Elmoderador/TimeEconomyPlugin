@@ -23,7 +23,7 @@ A project by **SpectroDinner™**
 <img src="https://img.shields.io/badge/Minecraft-1.21.11+-5CB85C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Paper-API-2D9CDB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Version-v1.4.0-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Version-v1.5.0-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Status-Released-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Build-Maven-C71A36?style=for-the-badge">
 <img src="https://img.shields.io/badge/Organization-SpectroDinner%E2%84%A2-8A2BE2?style=for-the-badge">
@@ -163,7 +163,7 @@ Features that do not meet these principles are redesigned or removed.
 | 📂 Repository | Public |
 | 🏢 Organization | SpectroDinner™ |
 | 💻 Development Branch | SpectroDinner DEV |
-| 📌 Current Version | v1.4.0 |
+| 📌 Current Version | v1.5.0 |
 | 🔄 Status | Released |
 | 📜 License | SpectroDinner Public Source License |
 
@@ -363,7 +363,7 @@ The current version of TimeEconomyPlugin includes multiple gameplay and manageme
 # 📦 Current Release
 
 ```text
-Version: v1.4.0
+Version: v1.5.0
 Minecraft: 1.21.11+
 Java: 21
 API: Paper
@@ -562,80 +562,6 @@ vX.Y.Z
 │ └──── Minor: New features and gameplay systems
 └────── Major: Large architectural changes
 ```
-
----
-
-# 🗺️ Development Roadmap
-
-TimeEconomyPlugin follows a continuous development model focused on improving gameplay systems, stability and software architecture.
-
----
-
-## ✅ Version 1.4.0 — Quality of Life Update
-
-Current released version.
-
-Highlights:
-
-- 🛡️ Trust System.
-- ⚙️ Interactive `/setup` wizard.
-- 🏠 Redesigned `/menu`.
-- 🌍 German localization.
-- 🔊 Shared sound settings.
-- 🎨 GUI consistency improvements.
-- 📚 Better player guidance.
-- ⚡ Internal quality improvements.
-
----
-
-## 🔄 Version 1.4.0 — Polish Update
-
-Upcoming release.
-
-Focus:
-
-- 🔧 Internal improvements.
-- ⚡ Performance optimization.
-- 🧹 Code cleanup.
-- 🐛 Bug fixes.
-- 📚 Quality improvements.
-- 🛠️ Better maintainability.
-
----
-
-## 🔮 Version 1.5.0 — Cinematic Update
-
-Planned future update.
-
-Focus:
-
-- 🎬 Improved class introduction system.
-- ✨ Better visual effects.
-- 🎨 Cinematic presentation improvements.
-
----
-
-## 🔐 Version 1.6.0 — Security Update
-
-Planned future update.
-
-Focus:
-
-- 🛡️ Security improvements.
-- 🔒 Additional protection systems.
-- ⚙️ Permission improvements.
-
----
-
-## ♿ Version 1.7.0 — Accessibility & Configuration Update
-
-Planned future update.
-
-Focus:
-
-- ♿ Accessibility improvements.
-- ⚙️ Additional configuration options.
-- 🌍 Localization expansion.
 
 ---
 
@@ -947,7 +873,7 @@ The project continues evolving through updates developed by **SpectroDinner DEV*
 
 | Version | Status | Highlights |
 |:------:|:------:|-------------|
-| 🚀 v1.4.0 | ✅ Released | Polish Update |
+| 🚀 v1.5.0 | ✅ Released | Cinematic Update |
 | 🔮 Future Versions | 📅 Planned | New gameplay and architecture improvements |
 
 ---
