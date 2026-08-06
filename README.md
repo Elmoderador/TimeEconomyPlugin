@@ -23,7 +23,7 @@ A project by **SpectroDinner™**
 <img src="https://img.shields.io/badge/Minecraft-1.21.11+-5CB85C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Paper-API-2D9CDB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Version-v1.5.0-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Version-v1.7.0-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Status-Released-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Build-Maven-C71A36?style=for-the-badge">
 <img src="https://img.shields.io/badge/Organization-SpectroDinner%E2%84%A2-8A2BE2?style=for-the-badge">
@@ -163,7 +163,7 @@ Features that do not meet these principles are redesigned or removed.
 | 📂 Repository | Public |
 | 🏢 Organization | SpectroDinner™ |
 | 💻 Development Branch | SpectroDinner DEV |
-| 📌 Current Version | v1.5.0 |
+| 📌 Current Version | v1.7.0 |
 | 🔄 Status | Released |
 | 📜 License | SpectroDinner Public Source License |
 
@@ -363,7 +363,7 @@ The current version of TimeEconomyPlugin includes multiple gameplay and manageme
 # 📦 Current Release
 
 ```text
-Version: v1.5.0
+Version: v1.7.0
 Minecraft: 1.21.11+
 Java: 21
 API: Paper
@@ -873,7 +873,7 @@ The project continues evolving through updates developed by **SpectroDinner DEV*
 
 | Version | Status | Highlights |
 |:------:|:------:|-------------|
-| 🚀 v1.5.0 | ✅ Released | Cinematic Update |
+| 🚀 v1.7.0 | ✅ Released | PreVoid Update |
 | 🔮 Future Versions | 📅 Planned | New gameplay and architecture improvements |
 
 ---
